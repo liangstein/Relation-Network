@@ -17,6 +17,7 @@ Although the training dataset is quite small, the model has shown inferring abil
 <p align="left">
   <img src="https://github.com/liangstein/Relation-Network/blob/master/CLEVR_train_069999.png" width="300"/>
 </p>
+
 ```
 Question: There is a green thing in front of the sphere to the left of the large cylinder that is behind the purple shiny cylinder; what is it made of?
 Predicted answer: rubber
