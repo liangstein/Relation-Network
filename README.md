@@ -57,7 +57,5 @@ Real answer: no
 ```
 
 ## Authors
-liangstein (lxxhlb@gmail.com, lxxhlb@mail.ustc.edu.cn)
-
-Thanks to the clear written code from [buriburisuri](https://github.com/buriburisuri/ByteNet), which helps me a lot in understanding the structure of the network. 
+liangstein (lxxhlb@gmail.com, lxxhlb@mail.ustc.edu.cn) 
 
